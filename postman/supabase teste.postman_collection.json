@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "9a68f546-348f-4d92-8b16-6332c81fab4b",
+    "name": "supabase teste",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "45038823",
+    "_collection_link": "https://go.postman.co/collection/45038823-9a68f546-348f-4d92-8b16-6332c81fab4b?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "login",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
